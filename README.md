@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/dharshini1316/leetcode/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/dharshini1316/leetcode/tree/master/0070-climbing-stairs) |
 ## Interactive
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/dharshini1316/leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/dharshini1316/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharshini1316/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Linked List
 |  |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/dharshini1316/leetcode/tree/master/0155-min-stack) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dharshini1316/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
