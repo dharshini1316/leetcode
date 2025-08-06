@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dharshini1316/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharshini1316/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dharshini1316/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/dharshini1316/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/dharshini1316/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/dharshini1316/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharshini1316/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dharshini1316/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dharshini1316/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/dharshini1316/leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/dharshini1316/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/dharshini1316/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dharshini1316/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/dharshini1316/leetcode/tree/master/0169-majority-element) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/dharshini1316/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/dharshini1316/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/dharshini1316/leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/dharshini1316/leetcode/tree/master/0242-valid-anagram) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dharshini1316/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/dharshini1316/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dharshini1316/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/dharshini1316/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/dharshini1316/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/dharshini1316/leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/dharshini1316/leetcode/tree/master/0171-excel-sheet-column-number) |
