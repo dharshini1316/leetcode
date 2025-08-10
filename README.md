@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dharshini1316/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharshini1316/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dharshini1316/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/dharshini1316/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/dharshini1316/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/dharshini1316/leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/dharshini1316/leetcode/tree/master/0118-pascals-triangle) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/dharshini1316/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dharshini1316/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/dharshini1316/leetcode/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/dharshini1316/leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/dharshini1316/leetcode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/dharshini1316/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/dharshini1316/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dharshini1316/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/dharshini1316/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
