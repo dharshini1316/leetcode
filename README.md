@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/dharshini1316/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/dharshini1316/leetcode/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/dharshini1316/leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/dharshini1316/leetcode/tree/master/0171-excel-sheet-column-number) |
