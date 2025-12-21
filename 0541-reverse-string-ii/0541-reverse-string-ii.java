@@ -7,6 +7,7 @@ class Solution {
             int i = start;
             int j = Math.min(start + k - 1, n - 1);
 
+
             while (i < j) {
                 char temp = arr[i];
                 arr[i] = arr[j];
