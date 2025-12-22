@@ -1,30 +1,28 @@
 class Solution {
     public int minDeletionSize(String[] strs) {
-        int r = strs.length;
-        int c = strs[0].length();
+        int r = strs.length, c = strs[0].length();
+        String[] built = new String[r];
+        Arrays.fill(built, "");
         int delcount = 0;
 
-        boolean[] sorted = new boolean[r - 1];
-
-        for(int i=0; i<c; i++){
-            boolean delcol = false;
-
-            for(int j=0; j<r-1; j++){
-                if(!sorted[j] && strs[j].charAt(i) > strs[j+1].charAt(i)){
-                    delcol = true;
-                    break;
-                }
+        for (int col = 0; col < c; col++) {
+            String[] temp = built.clone();
+            for (int row = 0; row < r; row++) {
+                temp[row] += strs[row].charAt(col);
             }
-            if(delcol){
-                delcount++;
+            if (isSorted(temp)) {
+                built = temp;
             } else {
-                for(int j=0; j<r-1; j++){
-                    if(!sorted[j] && strs[j].charAt(i) < strs[j+1].charAt(i)){
-                        sorted[j] = true;
-                    }
-                }
+                delcount++;
             }
         }
         return delcount;
+    }
+
+    private boolean isSorted(String[] arr) {
+        for (int i = 0; i < arr.length - 1; i++) {
+            if (arr[i].compareTo(arr[i+1]) > 0) return false;
+        }
+        return true;
     }
 }
