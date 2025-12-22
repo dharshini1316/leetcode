@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/dharshini1316/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dharshini1316/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/dharshini1316/leetcode/tree/master/0792-binary-search) |
+| [0944-delete-columns-to-make-sorted](https://github.com/dharshini1316/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dharshini1316/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/dharshini1316/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/dharshini1316/leetcode/tree/master/1480-running-sum-of-1d-array) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/dharshini1316/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/dharshini1316/leetcode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/dharshini1316/leetcode/tree/master/0567-permutation-in-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/dharshini1316/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dharshini1316/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/dharshini1316/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 ## Sliding Window
