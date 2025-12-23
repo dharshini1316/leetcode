@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/dharshini1316/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/dharshini1316/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/dharshini1316/leetcode/tree/master/1929-concatenation-of-array) |
+| [2054-two-best-non-overlapping-events](https://github.com/dharshini1316/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dharshini1316/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/dharshini1316/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dharshini1316/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [2054-two-best-non-overlapping-events](https://github.com/dharshini1316/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Counting
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dharshini1316/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dharshini1316/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/dharshini1316/leetcode/tree/master/0792-binary-search) |
+| [2054-two-best-non-overlapping-events](https://github.com/dharshini1316/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Math
 |  |
 | ------- |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/dharshini1316/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharshini1316/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/dharshini1316/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [2054-two-best-non-overlapping-events](https://github.com/dharshini1316/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Linked List
 |  |
 | ------- |
@@ -215,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/dharshini1316/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2054-two-best-non-overlapping-events](https://github.com/dharshini1316/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 ## Bucket Sort
 |  |
 | ------- |
