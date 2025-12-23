@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dharshini1316/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/dharshini1316/leetcode/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/dharshini1316/leetcode/tree/master/0036-valid-sudoku) |
+| [0039-combination-sum](https://github.com/dharshini1316/leetcode/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/dharshini1316/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/dharshini1316/leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/dharshini1316/leetcode/tree/master/0057-insert-interval) |
@@ -256,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/dharshini1316/leetcode/tree/master/1929-concatenation-of-array) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/dharshini1316/leetcode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
