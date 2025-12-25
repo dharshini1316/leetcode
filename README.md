@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/dharshini1316/leetcode/tree/master/1929-concatenation-of-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/dharshini1316/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [3074-apple-redistribution-into-boxes](https://github.com/dharshini1316/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/dharshini1316/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Hash Table
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/dharshini1316/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [2054-two-best-non-overlapping-events](https://github.com/dharshini1316/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [3074-apple-redistribution-into-boxes](https://github.com/dharshini1316/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/dharshini1316/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Counting
 |  |
 | ------- |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/dharshini1316/leetcode/tree/master/0011-container-with-most-water) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dharshini1316/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/dharshini1316/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/dharshini1316/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Prefix Sum
 |  |
 | ------- |
