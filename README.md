@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/dharshini1316/leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/dharshini1316/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dharshini1316/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/dharshini1316/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/dharshini1316/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/dharshini1316/leetcode/tree/master/0567-permutation-in-string) |
 | [2402-meeting-rooms-iii](https://github.com/dharshini1316/leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/dharshini1316/leetcode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/dharshini1316/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/dharshini1316/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/dharshini1316/leetcode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/dharshini1316/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/dharshini1316/leetcode/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/dharshini1316/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/dharshini1316/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/dharshini1316/leetcode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/dharshini1316/leetcode/tree/master/0567-permutation-in-string) |
@@ -287,4 +290,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/dharshini1316/leetcode/tree/master/0039-combination-sum) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/dharshini1316/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
