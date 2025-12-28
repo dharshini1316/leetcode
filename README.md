@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/dharshini1316/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/dharshini1316/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dharshini1316/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/dharshini1316/leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/dharshini1316/leetcode/tree/master/0278-first-bad-version) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/dharshini1316/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/dharshini1316/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/dharshini1316/leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/dharshini1316/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/dharshini1316/leetcode/tree/master/0070-climbing-stairs) |
 | [0171-excel-sheet-column-number](https://github.com/dharshini1316/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/dharshini1316/leetcode/tree/master/0231-power-of-two) |
