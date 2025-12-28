@@ -1,9 +1,10 @@
 class Solution {
     public int mySqrt(int x) {
-        long r = x;
-        while(r * r > x){
-            r = (r  + x /r) /2;
+        int i = 0;
+
+        while ((long) i * i <= x) {
+            i++;
         }
-        return (int) r;
+        return i - 1;
     }
 }
