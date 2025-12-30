@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/dharshini1316/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/dharshini1316/leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/dharshini1316/leetcode/tree/master/0792-binary-search) |
+| [0840-magic-squares-in-grid](https://github.com/dharshini1316/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/dharshini1316/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dharshini1316/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/dharshini1316/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/dharshini1316/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/dharshini1316/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/dharshini1316/leetcode/tree/master/0567-permutation-in-string) |
+| [0840-magic-squares-in-grid](https://github.com/dharshini1316/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [2402-meeting-rooms-iii](https://github.com/dharshini1316/leetcode/tree/master/2402-meeting-rooms-iii) |
 ## Divide and Conquer
 |  |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/dharshini1316/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0231-power-of-two](https://github.com/dharshini1316/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dharshini1316/leetcode/tree/master/0268-missing-number) |
+| [0840-magic-squares-in-grid](https://github.com/dharshini1316/leetcode/tree/master/0840-magic-squares-in-grid) |
 ## Interactive
 |  |
 | ------- |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dharshini1316/leetcode/tree/master/0036-valid-sudoku) |
+| [0840-magic-squares-in-grid](https://github.com/dharshini1316/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshini1316/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Union Find
 |  |
