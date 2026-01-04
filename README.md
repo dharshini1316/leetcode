@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/dharshini1316/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/dharshini1316/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshini1316/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/dharshini1316/leetcode/tree/master/1390-four-divisors) |
 | [1480-running-sum-of-1d-array](https://github.com/dharshini1316/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/dharshini1316/leetcode/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dharshini1316/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/dharshini1316/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dharshini1316/leetcode/tree/master/0268-missing-number) |
 | [0840-magic-squares-in-grid](https://github.com/dharshini1316/leetcode/tree/master/0840-magic-squares-in-grid) |
+| [1390-four-divisors](https://github.com/dharshini1316/leetcode/tree/master/1390-four-divisors) |
 ## Interactive
 |  |
 | ------- |
