@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/dharshini1316/leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/dharshini1316/leetcode/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/dharshini1316/leetcode/tree/master/0066-plus-one) |
+| [0085-maximal-rectangle](https://github.com/dharshini1316/leetcode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/dharshini1316/leetcode/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/dharshini1316/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharshini1316/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/dharshini1316/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/dharshini1316/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/dharshini1316/leetcode/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/dharshini1316/leetcode/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/dharshini1316/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/dharshini1316/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/dharshini1316/leetcode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dharshini1316/leetcode/tree/master/0020-valid-parentheses) |
+| [0085-maximal-rectangle](https://github.com/dharshini1316/leetcode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/dharshini1316/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dharshini1316/leetcode/tree/master/0234-palindrome-linked-list) |
 ## String Matching
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/dharshini1316/leetcode/tree/master/0036-valid-sudoku) |
+| [0085-maximal-rectangle](https://github.com/dharshini1316/leetcode/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/dharshini1316/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/dharshini1316/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dharshini1316/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -330,4 +334,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/dharshini1316/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/dharshini1316/leetcode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
