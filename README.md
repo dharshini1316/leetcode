@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/dharshini1316/leetcode/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/dharshini1316/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/dharshini1316/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/dharshini1316/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3453-separate-squares-i](https://github.com/dharshini1316/leetcode/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/dharshini1316/leetcode/tree/master/3454-separate-squares-ii) |
 ## Hash Table
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/dharshini1316/leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/dharshini1316/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dharshini1316/leetcode/tree/master/0268-missing-number) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/dharshini1316/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
