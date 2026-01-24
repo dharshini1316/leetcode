@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/dharshini1316/leetcode/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dharshini1316/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1480-running-sum-of-1d-array](https://github.com/dharshini1316/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/dharshini1316/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1895-largest-magic-square](https://github.com/dharshini1316/leetcode/tree/master/1895-largest-magic-square) |
 | [1929-concatenation-of-array](https://github.com/dharshini1316/leetcode/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dharshini1316/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/dharshini1316/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/dharshini1316/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/dharshini1316/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/dharshini1316/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/dharshini1316/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/dharshini1316/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/dharshini1316/leetcode/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/dharshini1316/leetcode/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/dharshini1316/leetcode/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/dharshini1316/leetcode/tree/master/0977-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/dharshini1316/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## String
 |  |
 | ------- |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/dharshini1316/leetcode/tree/master/0011-container-with-most-water) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dharshini1316/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/dharshini1316/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/dharshini1316/leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3074-apple-redistribution-into-boxes](https://github.com/dharshini1316/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/dharshini1316/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
