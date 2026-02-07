@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/dharshini1316/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/dharshini1316/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/dharshini1316/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/dharshini1316/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/dharshini1316/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dharshini1316/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dharshini1316/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/dharshini1316/leetcode/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/dharshini1316/leetcode/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/dharshini1316/leetcode/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/dharshini1316/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2054-two-best-non-overlapping-events](https://github.com/dharshini1316/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dharshini1316/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3640-trionic-array-ii](https://github.com/dharshini1316/leetcode/tree/master/3640-trionic-array-ii) |
@@ -284,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/dharshini1316/leetcode/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/dharshini1316/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/dharshini1316/leetcode/tree/master/0234-palindrome-linked-list) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/dharshini1316/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## String Matching
 |  |
 | ------- |
