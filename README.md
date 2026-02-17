@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/dharshini1316/leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/dharshini1316/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/dharshini1316/leetcode/tree/master/0268-missing-number) |
+| [0401-binary-watch](https://github.com/dharshini1316/leetcode/tree/master/0401-binary-watch) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/dharshini1316/leetcode/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/dharshini1316/leetcode/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
 ## Heap (Priority Queue)
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/dharshini1316/leetcode/tree/master/0039-combination-sum) |
+| [0401-binary-watch](https://github.com/dharshini1316/leetcode/tree/master/0401-binary-watch) |
 ## Queue
 |  |
 | ------- |
