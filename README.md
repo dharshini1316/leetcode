@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/dharshini1316/leetcode/tree/master/1929-concatenation-of-array) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/dharshini1316/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/dharshini1316/leetcode/tree/master/1975-maximum-matrix-sum) |
+| [1980-find-unique-binary-string](https://github.com/dharshini1316/leetcode/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/dharshini1316/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/dharshini1316/leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/dharshini1316/leetcode/tree/master/2402-meeting-rooms-iii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/dharshini1316/leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/dharshini1316/leetcode/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/dharshini1316/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1980-find-unique-binary-string](https://github.com/dharshini1316/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2402-meeting-rooms-iii](https://github.com/dharshini1316/leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/dharshini1316/leetcode/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/dharshini1316/leetcode/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/dharshini1316/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/dharshini1316/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/dharshini1316/leetcode/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
+| [1980-find-unique-binary-string](https://github.com/dharshini1316/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/dharshini1316/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/dharshini1316/leetcode/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/dharshini1316/leetcode/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/dharshini1316/leetcode/tree/master/0039-combination-sum) |
 | [0401-binary-watch](https://github.com/dharshini1316/leetcode/tree/master/0401-binary-watch) |
+| [1980-find-unique-binary-string](https://github.com/dharshini1316/leetcode/tree/master/1980-find-unique-binary-string) |
 ## Queue
 |  |
 | ------- |
